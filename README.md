@@ -1,0 +1,3 @@
+# notes
+
+### Personal code reading
