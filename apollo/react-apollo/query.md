@@ -1,0 +1,1 @@
+### onCompleted 调用其实是在componentDidUpdate中调用的,在之前版本会有query组件刷新重复调用的问题,现在做了query和variables的deepdiff,避免了重复调用.

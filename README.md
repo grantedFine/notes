@@ -1,3 +1,3 @@
 # notes
 
-### Personal code reading
+### Personal code reading and coding experience
