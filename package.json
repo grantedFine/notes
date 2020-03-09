@@ -1,0 +1,12 @@
+{
+  "name": "notes",
+  "version": "0.0.1",
+  "description": "personal knowledge on code and reading.",
+  "main": "index.js",
+  "repository": "git@github.com:grantedFine/notes.git",
+  "author": "grantedFine",
+  "license": "MIT",
+  "dependencies": {
+    
+  }
+}
