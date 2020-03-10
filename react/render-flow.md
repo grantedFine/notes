@@ -2,6 +2,7 @@
 
 #### ReactDOM.render 初次渲染
 
+// TODO github md不支持uml图
 ```flow
 s=>start: ReactDOM.render
 o1=>operation: createFiberRoot

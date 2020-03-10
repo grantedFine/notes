@@ -1,5 +1,6 @@
 ### mobx 实现双向绑定
 
+// TODO github md不支持uml图
 ### 以computed为例
 ```flow
 s=>start: computed.get
